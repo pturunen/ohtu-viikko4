@@ -10,7 +10,7 @@ import org.apache.commons.io.IOUtils;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        String studentNr = "011093394";
+        String studentNr = "01234567";
         if ( args.length>0) {
             studentNr = args[0];
         }
